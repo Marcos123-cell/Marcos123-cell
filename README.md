@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   <br/>
   <li>
     <strong>Spring Boot Task</strong> — Basic Spring Boot project to understand application lifecycle and core Java logic.<br/>
-    <a href="https://https://github.com/Marcos123-cell/Spring-boot-task">View repository</a>
+    <a href="https://github.com/Marcos123-cell/Spring-boot-task">View repository</a>
   </li>
   <br/>
   <li>
