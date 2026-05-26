@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   Back-end developer in training focused on <strong>Java</strong> and <strong>Spring Boot</strong>.<br/>
-  Hands-on experience with <strong>REST APIs</strong>, <strong>JSON (Jackson)</strong>, <strong>Git/GitHub</strong>, and <strong>SQL fundamentals</strong>.
+  Hands-on experience with <strong>REST APIs</strong>, <strong>JSON (Jackson)</strong>, <strong>Git/GitHub</strong>, and <strong>SQL - PostgreSQL</strong>.
 </p>
 
 <hr/>
