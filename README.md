@@ -50,18 +50,18 @@ Here are some ideas to get you started:
 
 <ul>
   <li>
-    <strong>Screenmatch (Java)</strong> — Consumes the OMDb public API and maps JSON responses to Java objects using Jackson.<br/>
-    <a href="https://github.com/Marcos123-cell/Screenmatch-sem-web">View repository</a>
+    <strong>DevTrack API</strong> — Study tracking API built with Spring Boot and PostgreSQL. Features project management, study sessions, DTOs, JPA relationships and RESTful CRUD operations.<br/>
+    <a href="https://github.com/Marcos123-cell/devtrack-api">View repository</a>
   </li>
   <br/>
   <li>
-    <strong>Spring Boot Task</strong> — Basic Spring Boot project to understand application lifecycle and core Java logic.<br/>
-    <a href="https://github.com/Marcos123-cell/Spring-boot-task">View repository</a>
+    <strong>Contact Agenda API</strong> — Contact management API with CRUD operations, search by name, data validation and PostgreSQL integration using Spring Data JPA.<br/>
+    <a href="https://github.com/Marcos123-cell/contact-agenda-api">View repository</a>
   </li>
   <br/>
   <li>
-    <strong>JSON Serialization</strong> — Practice project focused on object ↔ JSON conversion using Jackson.<br/>
-    <a href="https://github.com/Marcos123-cell/json-serialization">View repository</a>
+    <strong>Password Generator API</strong> — REST API that generates secure random passwords with custom length, DTO responses and error handling.<br/>
+    <a href="https://github.com/Marcos123-cell/password-generator-api">View repository</a>
   </li>
 </ul>
 
